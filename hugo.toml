@@ -5,7 +5,7 @@
 # 1. 사이트 기본 식별 정보
 baseURL = 'https://organic.gggpick.com/'
 languageCode = 'ko-kr'
-title = 'GGG Pick organic'
+title = 'GGG Pick 유기농'
 
 [params]
   # 2. 쿠팡 파트너스 전용 데이터
@@ -16,7 +16,7 @@ title = 'GGG Pick organic'
   homepage_sections = ["posts"]
   
   # 3. 사이트 설명 및 브랜딩
-  description = 'organic 관련 전문가 리뷰와 쿠팡 최저가 완벽 가이드.'
+  description = '유기농 야채과일, 유기농 가공식품, 유기농 화장품 등 건강한 몸을 위한 오가닉/유기농 로켓프레시 추천 및 리뷰.'
   brandColor = "#1a1c2c"
 
   # (공통) 애드센스 정보 및 메타 데이터
@@ -25,7 +25,7 @@ title = 'GGG Pick organic'
   env = 'production'
 
   # 🚨 사이트 식별 정보
-  sitename = "GGG Pick organic"
+  sitename = "GGG Pick 유기농"
   siteurl = "https://organic.gggpick.com"
   startdate = "2026-03-31"
   contactemail = "contact@gggpick.com"
