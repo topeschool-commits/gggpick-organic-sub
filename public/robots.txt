@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://organic.gggpick.com/sitemap.xml
